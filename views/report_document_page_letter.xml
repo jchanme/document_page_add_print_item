@@ -20,7 +20,7 @@
     </template>
 
     <report
-        id="report_document_page_letter"
+        id="report_document_page"
         string="Letter Type Doc"
         model="document.page"
         report_type="qweb-pdf"
