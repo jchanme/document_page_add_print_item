@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+      <record id="document_page_group_letters" model="document.page">
+        <field name="name">Letters</field>
+        <field name="type">category</field>
+        <field name="content">
+        </field>
+      </record>
+
+</odoo>
