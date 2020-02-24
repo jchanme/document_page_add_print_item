@@ -23,8 +23,8 @@
         string="Letter Type Doc"
         model="document.page"
         report_type="qweb-pdf"
-        file="document_page.report_documentpage"
-        name="document_page.report_documentpage"
+        file="document_page_letters.report_documentpage"
+        name="document_page_letters.report_documentpage"
     />
 
 </odoo>
