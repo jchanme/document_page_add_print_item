@@ -10,6 +10,7 @@
         'mgmtsystem_manual'
     ],
     "data": [
+        'data/document_page_letters.xml',
         'views/document_page_letters.xml',
         'views/report_document_page.xml',
     ],
