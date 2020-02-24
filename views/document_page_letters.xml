@@ -10,7 +10,7 @@
             <field name="domain" eval="[('parent_id','=',ref('document_page_group_letters'))]"/>
             <field name="context" eval="{'default_parent_id': ref('document_page_group_letters')}"/>
         </record>
-        <record id="action_procedures_tree" model="ir.actions.act_window.view">
+        <record id="action_letters_tree" model="ir.actions.act_window.view">
             <field name="sequence" eval="0" />
             <field name="view_mode">tree</field>
             <field name="view_id" ref="document_page.view_wiki_tree"/>
