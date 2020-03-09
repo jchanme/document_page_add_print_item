@@ -1,6 +1,6 @@
 {
     "name": "Document Page - Letters",
-    "version": "11.0.1.0.0",
+    "version": "12.0.1.0.0",
     "author": "Safyric Co., Ltd.",
     "website": "https://www.safyric.com",
     "license": "AGPL-3",
